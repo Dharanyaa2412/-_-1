@@ -1,0 +1,39 @@
+body{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  padding-left: 50px;
+  background-image: linear-gradient(rgb(239, 236, 236), rgb(177, 177, 174));
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  background-color: #333;
+  padding: 10px 0;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+.header{
+  font-family: "Lucida Console", "Courier New", monospace;;
+  font-size: 30px;
+ font-weight: 100;
+  
+
+}
+.img{
+
+}
+.link{
+
+}
+.artical{
+
+}
+.footer{
+
+}
